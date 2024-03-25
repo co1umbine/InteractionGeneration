@@ -86,7 +86,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a97924965c52f5e43a1b9c8867b0a381,
         type: 3}
       propertyPath: m_Name
-      value: ShutoRig Variant
+      value: B-Rig Variant
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a97924965c52f5e43a1b9c8867b0a381,
         type: 3}
@@ -8000,7 +8000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b13bf2d1bf0b3d142aa386210fe5ad39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playStartKey: 0
+  _playStartKey: 115
   _playStopKey: 116
   _playPauseKey: 112
   _playBackKey: 276
@@ -8022,7 +8022,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf8eefc1b9e602f4d8d9fca09f67b46b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playStartKey: 0
+  _playStartKey: 115
   _playStopKey: 116
   _playPauseKey: 112
   _playBackKey: 276
